@@ -25,6 +25,3 @@ Game design is the art of creating games. Game designers create the rules, goals
 
 Average Salary: **$85,484**
 
-## Sources 
-- [Hover effect overlay](https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_image_overlay_fade)
-- [img adjuster refrence](https://codepen.io/whitney-lugo/pen/XWZmeBx)
